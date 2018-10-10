@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\alecaddd-plugin.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php"/>
+ </lastopfiles>
+ <errors version="5.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\ClassLoader.php" crc="1538308439968"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\autoload_static.php" crc="1538308439948"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\autoload_real.php" crc="1538308439954"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\autoload_psr4.php" crc="1538308439927"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\autoload_namespaces.php" crc="1538308439910"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\composer\autoload_classmap.php" crc="1538308439943"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\vendor\autoload.php" crc="1538308439951"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\templates\admin.php" crc="1537923087364"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\Pages\admin.php" crc="1538384625131"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\Base\settingslinks.php" crc="1538312176924"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\Base\enqueue.php" crc="1538308505624"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\Base\deactivate.php" crc="1538316053122"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\Base\activate.php" crc="1538270152334"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php" crc="1538384692086"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\assets\js\script.js" crc="1537668411904"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\assets\css\style.css" crc="1537668390120"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\uninstall.php" crc="1537609185890"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\index.php" crc="1523895098000"/>
+  <file name="C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\alecaddd-plugin.php" crc="1538384659765"/>
+ </filescache>
+</project>

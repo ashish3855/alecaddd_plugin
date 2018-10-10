@@ -1,0 +1,13 @@
+
+<codestructure version="5.8">
+<phptree>
+<treenode node="Init;PHP:Class Name;C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php;f0;7;1;48;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    class Init&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    alecaddd activate class;;d10,7;;b0,0;;m,0;;e">
+<treenode node="get_services;PHP:Function Name;C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php;f16;13;3;21;;;;vpos;;v;;aarray;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    get_services()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    store all the clasess inside an array&#10;&lt;b&gt;return&lt;/b&gt;: full list of clasess;;d39,13;;b1,5;;m,0;;e">
+</treenode>
+<treenode node="instantiate;PHP:Function Name;C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php;f17;44;3;46;;;;vpos;;v;;aclass;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    instantiate($class)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    initialize class&#10;from services array&#10;&lt;b&gt;return&lt;/b&gt;: object&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    class &lt;b&gt;$class&lt;/b&gt;: from services array;;d45,44;;b3,5;;m,0;;eclass $class;;p">
+</treenode>
+<treenode node="register_services;PHP:Function Name;C:\xampp\htdocs\alecaddd-3\wp-content\plugins\alecaddd-plugin\inc\init.php;f16;28;3;37;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    register_services()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Loop throuth the clasess, initialize theme_head&#10;and call the register method if it exists&#10;&lt;b&gt;return&lt;/b&gt;;;d44,28;;b1,5;;m,0;;e">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
